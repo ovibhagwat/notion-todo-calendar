@@ -15,10 +15,10 @@ PROPERTY_DUE_DATE = "Due Date"
 PROPERTY_ASSIGNEE = "Assignee"
 
 STATUS_EMOJIS = {
-    "To Do": "🔴",
-    "In progress": "🟡",
-    "Done": "✅",
-    "Did Not Do": "⚫",
+    "To Do": "⚪",
+    "In progress": "🔵",
+    "Done": "🟢",
+    "Did Not Do": "❌",
 }
 
 HEADERS = {
